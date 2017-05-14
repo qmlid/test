@@ -4,9 +4,7 @@ public class Test {
  String bb;
  String test;
  String bbbb;
-  
 
-String aabb;
  String bbbb;
 
 String aaa;
