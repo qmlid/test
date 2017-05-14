@@ -5,6 +5,8 @@ public class Test {
  String test;
  String bbbb;
   
+
+String aabb;
  String bbbb;
 
 String aaa;
