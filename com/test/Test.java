@@ -4,9 +4,11 @@ public class Test {
  String bb;
  String test;
  String bbbb;
+
  String bbbb;
 
 String aaa;
+
  public static void main(String[] args) {
 	
 }
