@@ -7,6 +7,7 @@ public class Test {
  String bbaa;
 
  String aaabbb;
+ String bbaadd;
  public static void main(String[] args) {
 	
 }
