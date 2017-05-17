@@ -5,6 +5,7 @@ public class Test {
  String test;
  String bbbb;
 
+Stirng aaa;
  public static void main(String[] args) {
 	
 }
