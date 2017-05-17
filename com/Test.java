@@ -8,6 +8,7 @@ public class Test {
 
  String aaabbb;
  String bbaadd;
+ String aaa111;
  public static void main(String[] args) {
 	
 }
