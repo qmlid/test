@@ -4,6 +4,7 @@ public class Test {
  String bb;
  String test;
  String bbbb;
+ String bbaa;
 
  public static void main(String[] args) {
 	
