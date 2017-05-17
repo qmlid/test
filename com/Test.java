@@ -6,7 +6,7 @@ public class Test {
  String bbbb;
  String bbaa;
 
-Stirng aaa;
+String aaa;
  public static void main(String[] args) {
 	
 }
