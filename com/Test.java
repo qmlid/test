@@ -1,14 +1,12 @@
 
 public class Test {
- String aa;
- String bb;
- String test;
- String bbbb;
- String bbaa;
 
+<<<<<<< HEAD
  String aaabbb;
  String bbaadd;
  String aaa111;
+=======
+>>>>>>> branch 'test' of git@github.com:qmlid/test.git
  public static void main(String[] args) {
 	
 }
