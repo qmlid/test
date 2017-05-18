@@ -1,6 +1,6 @@
 
 public class Test {
-private String a;
+private Stirng a;
 
 
  public static void main(String[] args) {
